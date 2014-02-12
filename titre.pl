@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 use LWP::Simple;
+use utf8;
 
 my $url_abes = "http://www.sudoc.fr/";
 my $rdf = ".rdf";
